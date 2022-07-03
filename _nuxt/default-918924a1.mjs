@@ -1,0 +1,1 @@
+import{_ as r,o,c as a,a as t,E as s}from"./entry-94ceb41e.mjs";const d={},n={class:"xl:container mx-auto max-w-2xl px-4 py-10 bg-white sm:px-8 sm:shadow dark:bg-gray-800 sm:rounded"},c={class:"prose prose-gray dark:prose-invert max-w-5xl"};function p(e,i){return o(),a("div",n,[t("main",c,[s(e.$slots,"default")])])}var _=r(d,[["render",p]]);export{_ as default};
