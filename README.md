@@ -20,7 +20,7 @@ Then go to http://localhost:3000/ to check your changes.
 Generate and publish (gh-pages) the docs.
 
 ```bash
-npm run publish
+npm run deploy
 ```
 
 Learn more on [Nuxt docs](https://v3.nuxtjs.org/guide/deploy/node-server) for more information.
