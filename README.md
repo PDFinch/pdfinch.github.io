@@ -24,3 +24,9 @@ npm run deploy
 ```
 
 Learn more on [Nuxt docs](https://v3.nuxtjs.org/guide/deploy/node-server) for more information.
+
+### Updating packages
+```bash
+npm update
+```
+And pray.
