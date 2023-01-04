@@ -1,0 +1,1 @@
+import{q as s,o as a,a as t,b as o,s as r}from"./entry.d7bad2cb.js";const n={},_={class:"xl:container mx-auto max-w-2xl px-4 py-10 bg-white sm:px-8 sm:shadow dark:bg-gray-800 sm:rounded"},c={class:"prose prose-gray dark:prose-invert max-w-5xl"};function d(e,l){return a(),t("div",_,[o("main",c,[r(e.$slots,"default")])])}const m=s(n,[["render",d]]);export{m as default};
